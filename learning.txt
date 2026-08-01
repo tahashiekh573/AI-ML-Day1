@@ -1,0 +1,59 @@
+# What is Artificial Intelligence (AI)?
+
+Artificial Intelligence (AI) is a branch of computer science that enables machines to perform tasks that normally 
+require human intelligence, such as making decisions, recognizing images, understanding language, and solving
+ problems.
+
+# What is Machine Learning (ML)?
+
+Machine Learning (ML) is a subset of Artificial Intelligence that allows computers to learn from data and improve 
+their performance without being explicitly programmed for every task.
+
+1. Supervised Learning
+The model learns from labeled data (input + correct output).
+It is used to make predictions or classifications.
+
+Examples:
+
+Email spam detection
+House price prediction
+Student exam result prediction
+2. Unsupervised Learning
+The model learns from unlabeled data.
+It finds hidden patterns or groups in the data.
+
+Examples:
+
+Customer segmentation
+Product recommendation
+Grouping similar documents
+3. Reinforcement Learning
+The model learns by trial and error.
+It receives rewards for correct actions and penalties for wrong actions.
+
+Examples:
+
+Self-driving cars
+Robot navigation
+Game-playing AI (such as AlphaGo)
+
+# What is Deep Learning?
+
+Deep Learning is an advanced branch of Machine Learning that uses artificial neural networks to process large amounts
+ of data. It is widely used in image recognition, speech recognition, and natural language processing.
+
+# What is Generative AI?
+
+Generative AI is a type of Artificial Intelligence that can create new content such as text, images, code, music, and
+ videos based on the data it has learned from.
+
+Examples of Generative AI:
+- ChatGPT
+- Google Gemini
+
+# Real-World Examples
+
+- Artificial Intelligence (AI): Google Maps suggests the best route based on traffic conditions.
+- Machine Learning (ML): Netflix recommends movies and TV shows based on your viewing history.
+- Deep Learning: Face Unlock on smartphones recognizes your face to unlock the device.
+- Generative AI: ChatGPT can generate code, write articles, answer questions, and create content.
