@@ -1,0 +1,31 @@
+Student Name,Age,Gender,Course,Attendance,Assignment Score,Midterm Score,Final Score
+Ali,20,Male,AI,92,85,80,88
+Ahmed,21,Male,Computer Science,70,45,42,45
+Sara,19,Female,Software Engineering,95,90,88,94
+Usman,22,Male,Data Science,82,75,78,80
+Ayesha,20,Female,Cyber Security,88,84,82,87
+Hassan,21,Male,AI,74,48,46,49
+Fatima,19,Female,Computer Science,96,94,92,95
+Bilal,22,Male,Software Engineering,60,40,38,42
+Zain,20,Male,Data Science,85,82,80,84
+Maryam,21,Female,Cyber Security,91,88,86,90
+Hamza,20,Male,AI,78,72,74,76
+Noor,19,Female,Computer Science,89,85,83,86
+Danish,22,Male,Software Engineering,68,44,41,46
+Hira,20,Female,Data Science,94,91,89,93
+Talha,21,Male,Cyber Security,81,79,77,80
+Iqra,20,Female,AI,97,95,94,96
+Saad,22,Male,Computer Science,73,47,45,48
+Anaya,19,Female,Software Engineering,90,87,85,89
+Rehan,21,Male,Data Science,84,81,79,83
+Amna,20,Female,Cyber Security,93,90,88,91
+Raza,22,Male,AI,72,43,40,44
+Kiran,19,Female,Computer Science,87,84,82,85
+Omer,20,Male,Software Engineering,79,76,74,78
+Laiba,21,Female,Data Science,92,89,87,90
+Shahzaib,22,Male,Cyber Security,69,46,43,47
+Mahnoor,20,Female,AI,98,96,95,97
+Adeel,21,Male,Computer Science,75,49,47,49
+Muneeb,22,Male,Software Engineering,83,80,78,82
+Komal,19,Female,Data Science,86,83,81,84
+Abdullah,20,Male,Cyber Security,65,42,40,45
